@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "BT_Layout_2001181020_NguyenChanhBao"
